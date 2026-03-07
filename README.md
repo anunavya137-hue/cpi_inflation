@@ -99,11 +99,12 @@ These visualizations help clearly understand **inflation patterns and price inde
 Example:
 
 ```
-<img width="860" height="678" alt="image" src="https://github.com/user-attachments/assets/eddd9e24-0d00-4f45-bc3c-78b75a104264" />
+<img width="860" height="679" alt="Screenshot 2026-03-07 123031" src="https://github.com/user-attachments/assets/4c964ce9-7152-4ccf-92b7-cb8ae637421b" />
 
-<img width="797" height="452" alt="image" src="https://github.com/user-attachments/assets/fa4d490d-3d68-4921-b7ac-1f8d9773a040" />
 
-<img width="752" height="451" alt="image" src="https://github.com/user-attachments/assets/4041b077-6168-436c-8437-a31ca75ecc0a" />
+<img width="633" height="355" alt="Screenshot 2026-03-07 123417" src="https://github.com/user-attachments/assets/568e50c7-7f74-4bf9-a39d-4ac2101567d9" />
+
+<img width="597" height="345" alt="Screenshot 2026-03-07 123434" src="https://github.com/user-attachments/assets/eabc4d90-3f29-4ccb-8399-b6deb6d8dacf" />
 
 ```
 
